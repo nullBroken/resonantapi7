@@ -1,6 +1,8 @@
 # Resonant [![build](https://github.com/aulus-asina/resonant/actions/workflows/build.yml/badge.svg)](https://github.com/aulus-asina/resonant/actions/workflows/build.yml)
 A power worthy of Lord Zenos. Resonant is a Dalamud plugin that draws positional information in the world. 
 
+only change  is replacing the api level to api7.
+
 ![Target positionals with player hitbox](/repo/positionals.png)
 ## Features
 ### Player Hitbox
@@ -21,6 +23,4 @@ https://raw.githubusercontent.com/aulus-asina/resonant/main/repo/latest.json
 ```
 
 ## Something doesn't seem right...
-Mechanics such as how conal attacks work and how hitboxes and attack ranges work
-have been inferred with trial and error. This plugin might be wrong about some
-game mechanics - if something appears off let me know by opening a GitHub issue.
+i cannot help you. this is a fork to update to api7 and nothing more. all credit goes to aulus asina
