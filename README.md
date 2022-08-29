@@ -17,9 +17,10 @@ Draw a cone from the player towards the target. Useful for landing conal or dire
 Keep separate profiles for different jobs.
 
 ## Installation
+by downloading this you acknowledge that it could really be broken as this is unchanged since january by aulus asina. updating the api level doesn't necessarily mean it works. 
 Add as a custom repository:
 ```
-https://raw.githubusercontent.com/aulus-asina/resonant/main/repo/latest.json
+https://raw.githubusercontent.com/nullBroken/resonantapi7/main/repo/latest.json
 ```
 
 ## Something doesn't seem right...
